@@ -359,7 +359,7 @@ src/
 
 ## 🎬 比赛视频
 
-[点击观看比赛演示视频 (run.mp4)](run.mp4)
+<video src="run.mp4" controls="controls" width="100%" style="max-width: 800px;"></video>
 
 ## 📞 技术支持
 
