@@ -359,7 +359,10 @@ src/
 
 ## 🎬 比赛视频
 
-<video src="run.mp4" controls="controls" width="100%" style="max-width: 800px;"></video>
+> 由于 GitHub README 的安全限制，无法直接嵌入仓库内的视频文件进行内联播放。
+> 请点击下方链接，跳转到 GitHub 播放器观看：
+
+[**▶️ 点击观看比赛演示视频 (run.mp4)**](https://github.com/ScineceTechAILab/YYYP_Car/blob/master/run.mp4)
 
 ## 📞 技术支持
 
